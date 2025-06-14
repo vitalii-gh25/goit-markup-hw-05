@@ -828,9 +828,9 @@ h6 {
 }
 
 .check-icon {
-  display: inline-flex;
+  /* display: inline-flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .modal-button {
