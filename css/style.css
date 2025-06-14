@@ -792,9 +792,9 @@ h6 {
 }
 
 .check-element {
-  /* display: inline-flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: center; */
+  justify-content: center;
   width: 16px;
   height: 16px;
   border-radius: 2px;
