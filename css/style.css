@@ -609,6 +609,14 @@ h6 {
 
 .footer-button-icon {
   margin-left: 16px;
+  fill: #fff;
+}
+
+.footer-form-button:hover,
+.footer-form-button:focus {
+  background-color: #404bbf;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* ------------MODAL----------- */
