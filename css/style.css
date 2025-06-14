@@ -795,6 +795,7 @@ h6 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex-direction: row;
   width: 16px;
   height: 16px;
   border-radius: 2px;
