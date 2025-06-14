@@ -792,9 +792,9 @@ h6 {
 }
 
 .check-element {
-  display: inline-flex;
+  /* display: inline-flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
   width: 16px;
   height: 16px;
   border-radius: 2px;
@@ -813,9 +813,6 @@ h6 {
 }
 
 .check-text-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
@@ -828,9 +825,9 @@ h6 {
 }
 
 .check-icon {
-  /* display: inline-flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: center; */
+  justify-content: center;
 }
 
 .modal-button {
