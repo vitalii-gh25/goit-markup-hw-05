@@ -780,6 +780,10 @@ h6 {
   color: rgba(46, 47, 66, 0.4);
 }
 
+.modal-check {
+  display: inline-flex;
+}
+
 .check-text {
   display: inline-flex;
   align-items: center;
@@ -795,7 +799,6 @@ h6 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  flex-direction: row;
   width: 16px;
   height: 16px;
   border-radius: 2px;
