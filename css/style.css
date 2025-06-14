@@ -780,16 +780,6 @@ h6 {
   color: rgba(46, 47, 66, 0.4);
 }
 
-.modal-lable {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  flex-direction: row;
-}
-
 .check-text {
   display: flex;
   align-items: center;
